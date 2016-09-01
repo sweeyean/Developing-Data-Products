@@ -1,0 +1,83 @@
+29Aug to 03Oct
+
+Week 1: Shiny and rCharts
+----------------------------------
+Introduction
+		Introduction to Data Products							1 min
+		Welcome to Developing Data Products				10 min
+		Syllabus														10 min
+		Pre-Course Survey										10 min
+		Book: Developing Data Products in R				10 min
+		Data Science Specialization Community Site		10 min
+
+Shiny
+		Shiny																	10 min
+		Why Shiny?															1 min
+		Shiny 1 Introduction to Shiny									8 min
+		Shiny 2 basic html and getting input							4 min
+		Shiny 3 Creating a very basic prediction function		4 min
+		Shiny 4 Working with images									2 min
+		Shiny 5 Discussion													4 min
+		Thinking ahead to the shinyapps.io project				10 min
+		shinyApps.io															4 min
+
+More advanced Shiny
+		More advanced Shiny																		10 min
+		More advanced shiny discussion, reactivity										9 min
+		More advanced shiny, the reactive function										5 min
+		More advanced shiny, conditional execution of reactive statements		4 min
+		More advanced shiny, odds and ends												4 min
+
+Manipulate
+		Manipulate: Interactive Graphics						10 min
+		Manipulate														4 min
+		
+Interactive graphics
+		Intro to rCharts and GoogleVis			1 min
+		rCharts introduction							4 min
+		rCharts more examples						5 min
+		rCharts mapping and discussion			5 min
+		GoogleVis											9 min
+		plotly												8 min
+		Interactive graphics							10 min
+
+Quiz: Quiz 1		5 questions 	Sep 5	20%
+
+Week 2
+----------------------------------
+Presenting Data Analyses
+		Presenting Data Analysis Writing a Data Report	3 min
+		Reproducible reports											10 min
+
+Slidify
+		Slidify intro									5 min
+		Slidify working it out						2 min
+		Slidify customization						4 min
+		Slidify more details						7 min
+		Slidify reminder about knitting R		1 min
+		Very quick introduction to gh-pages	5 min
+
+Rstudio presenter
+		RStudio's Presenter															10 min
+		RStudio Presenter 1 Introduction and getting started				4 min
+		RStudio Presenter 2 Authoring details									11 min
+		RStudio Presenter 3 Discussion and comparison with Slidify	4 min
+Quiz: Quiz 2		6 questions	Sep 12	20%
+
+Week 3
+----------------------------------
+R packages
+		R Packages								10 min
+		R Packages (Part 1)					7 min
+		R Packages (Part 2)					14 min
+		Building R Packages Demo			18 min
+		R Classes and Methods (Part 1)	13 min
+		R Classes and Methods (Part 2)	11 min
+Quiz: Quiz 3		4 questions	Sep 19 	20%
+
+Week 4
+----------------------------------
+Course Project
+Peer Graded Assignment: Course Project: Shiny Application and Reproducible Pitch		1h 		Sep 26 		40%
+Review Your Peers: Course Project: Shiny Application and Reproducible Pitch							Sep 29		40%
+
